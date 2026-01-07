@@ -1,5 +1,5 @@
 # PID_9_Citi_Credit_Card_Development_Process
-### Personal Banking | Client Requirements Gathering | Client Communication | Product Development | Ideation PowerPoint | Excel
+### Personal Banking | Client Requirements Gathering | Client Communication | Product Development | Ideation | PowerPoint | Excel
 
 ## Objective
 Revolutionize Citi's product offering to better align with evolving customer needs.
