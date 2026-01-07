@@ -13,4 +13,4 @@ To design the credit card, we will need to come up with a customer-led propositi
 ## Task
 - Create questionnaire for a “Loyal-Customer" to better understand the customer needs.<br>
 (A Loyal-Customer is a valued customer since 2011 or before, who has agreed to respond the team.)
-- Gather critical customer information (such as customer needs, customer preferences, customer profile, etc.)
+- Gather critical customer information (such as customer needs, customer preferences, customer profile, etc.) from the Loyal-Customer to design the Credit Card.
