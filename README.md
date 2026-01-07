@@ -2,13 +2,10 @@
 ### Personal Banking | Client Requirements Gathering | Client Communication | Product Development | Ideation | PowerPoint | Excel
 
 ## Objective
-Revolutionize Citi's product offering to better align with evolving customer needs.
+To design the credit card, we will need to come up with a customer-led proposition while thinking outside the box and revolutionize Citi's product offering to better align with the evolving customer needs.
 
 ## Action
 Launch a new personal branded credit card better suited to its customer needs.
-
-## Ideation
-To design the credit card, we will need to come up with a customer-led proposition while thinking outside the box.
 
 ## Task
 - Create questionnaire for a “Loyal-Customer" to better understand the customer needs.<br>
